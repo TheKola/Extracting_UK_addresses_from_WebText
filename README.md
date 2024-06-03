@@ -1,4 +1,4 @@
-## README: UK Address Extraction from Website Text
+##UK Address Extraction from Website Text
 
 ### Overview
 This project demonstrates a method for extracting UK addresses from textual content on company websites, specifically focusing on the text around postcode areas. Developed while working at The Data City, the project focuses on analyzing patterns in address formats to facilitate address extraction based on regex and text analysis.
