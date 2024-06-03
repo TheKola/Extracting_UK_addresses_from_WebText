@@ -57,5 +57,11 @@ python src/main.py
 ### Conclusion
 This project provides a structured approach to extracting UK addresses from textual data on company websites. It demonstrates the power of regex and simple text manipulation techniques in data extraction tasks, particularly useful in data analytics and machine learning preprocessing steps.
 
+## Contributing
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more details.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ### Acknowledgements
 This project was developed at The Data City, and it leverages common data manipulation libraries in Python to provide a robust solution for address extraction from unstructured text sources.
